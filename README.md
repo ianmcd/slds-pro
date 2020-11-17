@@ -8,4 +8,4 @@ This is a work in progress.  So far I have the SLDS utility icons exported and r
 
 
 ### icomoon.io
-Fonts built using [icomoon.io](https://icomoon.io/).  You can use the selection.json files included in each font's directory to use in your own icomoon projects.  [More info can be found on their website](https://icomoon.io/#docs/save-load).
+Fonts built using [icomoon.io](https://icomoon.io/).  You can use the selection.json files included in each font's directory to import these icons into your own icomoon projects.  [More info can be found on their website](https://icomoon.io/#docs/save-load).
